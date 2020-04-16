@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/port-of-oswego/static/css/main.f72a7afb.chunk.css",
-    "main.js": "/port-of-oswego/static/js/main.83c6e99d.chunk.js",
-    "main.js.map": "/port-of-oswego/static/js/main.83c6e99d.chunk.js.map",
+    "main.js": "/port-of-oswego/static/js/main.f481b4d3.chunk.js",
+    "main.js.map": "/port-of-oswego/static/js/main.f481b4d3.chunk.js.map",
     "runtime-main.js": "/port-of-oswego/static/js/runtime-main.52f1428e.js",
     "runtime-main.js.map": "/port-of-oswego/static/js/runtime-main.52f1428e.js.map",
     "static/js/2.0e335897.chunk.js": "/port-of-oswego/static/js/2.0e335897.chunk.js",
     "static/js/2.0e335897.chunk.js.map": "/port-of-oswego/static/js/2.0e335897.chunk.js.map",
     "index.html": "/port-of-oswego/index.html",
-    "precache-manifest.7f7db8c2d92f70afda24376f9e052869.js": "/port-of-oswego/precache-manifest.7f7db8c2d92f70afda24376f9e052869.js",
+    "precache-manifest.f3d1e2448609d0c753af0e84255f07f6.js": "/port-of-oswego/precache-manifest.f3d1e2448609d0c753af0e84255f07f6.js",
     "service-worker.js": "/port-of-oswego/service-worker.js",
     "static/css/main.f72a7afb.chunk.css.map": "/port-of-oswego/static/css/main.f72a7afb.chunk.css.map",
     "static/js/2.0e335897.chunk.js.LICENSE.txt": "/port-of-oswego/static/js/2.0e335897.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.52f1428e.js",
     "static/js/2.0e335897.chunk.js",
     "static/css/main.f72a7afb.chunk.css",
-    "static/js/main.83c6e99d.chunk.js"
+    "static/js/main.f481b4d3.chunk.js"
   ]
 }
