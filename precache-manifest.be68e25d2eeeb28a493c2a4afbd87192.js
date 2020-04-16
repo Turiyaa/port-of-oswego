@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0ad74956586c7738829cef7e07275cb",
+    "revision": "c1492cc142733ad223f94962e74658e7",
     "url": "/port-of-oswego/index.html"
   },
   {
-    "revision": "9d5ed5eb3ada93a036f8",
-    "url": "/port-of-oswego/static/css/main.f72a7afb.chunk.css"
+    "revision": "4c88154a2c1a3791b637",
+    "url": "/port-of-oswego/static/css/main.c20e2781.chunk.css"
   },
   {
     "revision": "257d751e122fca471a29",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/port-of-oswego/static/js/2.0e335897.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d5ed5eb3ada93a036f8",
-    "url": "/port-of-oswego/static/js/main.f481b4d3.chunk.js"
+    "revision": "4c88154a2c1a3791b637",
+    "url": "/port-of-oswego/static/js/main.2036ea6e.chunk.js"
   },
   {
     "revision": "447d5ac7056140922f2b",
