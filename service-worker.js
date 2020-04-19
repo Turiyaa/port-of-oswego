@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/port-of-oswego/precache-manifest.be68e25d2eeeb28a493c2a4afbd87192.js"
+  "/port-of-oswego/precache-manifest.deffd01953b93809eb72da22ff8c9f42.js"
 );
 
 self.addEventListener('message', (event) => {
